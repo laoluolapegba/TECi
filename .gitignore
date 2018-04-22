@@ -6,6 +6,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.jfm
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -206,7 +207,11 @@ FakesAssemblies/
 # Visual Studio 6 workspace options file
 *.opt
 
+#Visual Studio web.config File
+*.Web.config
+
 # LightSwitch generated files
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+*.jfm
